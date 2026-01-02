@@ -297,3 +297,7 @@ button {
     color: rgb(58, 58, 58);
     padding-left: 35px;
 }
+.badge {
+    padding-left: 35px;
+    margin-bottom: 40px;
+}
